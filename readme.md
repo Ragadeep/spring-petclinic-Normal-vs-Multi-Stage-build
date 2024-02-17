@@ -40,12 +40,12 @@ You can build a container image (if you have a docker daemon) either using the S
 ./mvnw spring-boot:build-image
 ```
 ```
-docker build -t kunchalavikram/spring-petclinic:latest .
+docker build -t raga/spring-petclinic:latest .
 ```
 
 ## Running as a Container
 ```
-docker run -d -p 80:8080 --name web kunchalavikram/spring-petclinic:latest
+docker run -d -p 80:8080 --name web raga/spring-petclinic:latest
 ```
 
 ## In case you find a bug/suggested improvement for Spring Petclinic
