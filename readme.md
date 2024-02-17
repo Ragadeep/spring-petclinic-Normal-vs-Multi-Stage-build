@@ -1,6 +1,6 @@
 # Spring PetClinic Sample Application [![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml)
 
-Normal Vs Multi stage Docker Build size
+## Normal Vs Multi stage Docker Build size
 <img width="481" alt="image" src="https://github.com/Ragadeep/spring-petclinic-Normal-vs-Multi-Stage-build/assets/39906721/75381656-274c-41c9-b042-3957709a0401">
 
 
